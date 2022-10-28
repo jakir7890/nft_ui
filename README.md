@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-<img src="ss/img.jpg" width="256">
+<img src="ss/img.jpg" width="500">
